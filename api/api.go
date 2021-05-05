@@ -24,5 +24,5 @@ func HandleUserGroup(g *echo.Group) {
 }
 
 func HandleTestGroup(g *echo.Group) {
-	g.POST("/generate-random-users", handlers.GenerateRandomUsersHandler)
+	g.GET("/generate-random-users", handlers.GenerateRandomUsersHandler)
 }
