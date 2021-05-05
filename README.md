@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="art/art1.png" height="600">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="art/art2.png" height="600">
+</p>
+
 ## HOW TO USE?
 
 1. Install Go [LINK](https://golang.org/).
