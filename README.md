@@ -1,3 +1,5 @@
+Simple iOS Application with its own server to transfer money using Stellar TestNet.
+
 <p align="center">
   <img src="art/art1.png" height="600">
 &nbsp; &nbsp; &nbsp; &nbsp;
